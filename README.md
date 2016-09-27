@@ -8,6 +8,9 @@ Databases:
 * clieckhouse
 * es + mongodb (as storage)
 
+TODO:
+* добавить `datetime` для событий
+
 ## Clieckhouse
 
 * docker
